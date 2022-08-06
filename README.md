@@ -40,8 +40,7 @@ https://www.github.com/richard/code-20200917-richardfreeman
 
 **Formula 1 - BMI**
 
-**BMI(kg/m2) = mass(kg) / height(m)2**
-
+**BMI(kg/m^2) = mass(kg) / height(m)^2**
 
 The BMI (Body Mass Index) in (kg/m2
 ) is equal to the weight in kilograms (kg) divided by your
@@ -71,8 +70,8 @@ Very severely obese   40 and above   Very high risk
 **Directories**
 
 - The main script is **bmi_calculate_main.py** used to calculate the BMI, BMI Category and Health risk
-from Table 1 of the person and count the total number of overweight people using ranges in the column BMI Category
-of Table 1
+from Table_1 of the person and count the total number of overweight people using ranges in the column BMI Category
+of Table_1
 - And the script **bmi_calculate_test.py** tests whether the code is working as expected
 
 - **bmi folder** : it is a package which contains **bmi_calculator.py** which is the main module; **bmi_calculator_test.py** is the module used for testing bmi_calculator.py module
@@ -85,5 +84,4 @@ test_data.json is test data used for testing validation; expected_data.json is t
 
 **Comments**
 
-When the total number of overweight persons is counted using ranges from Table 1, the outcome is consistent and matches what was observed and predicted
-We may extend this solution further using other methods/approaches, and it is entirely dependent on the supplied data. Consider the input as a folder on a datalake where numerous files will be received, then read all the data and divide it into sub-samples, process them using parallel streams, and then combine the results. This is possible using Databricks pipelines
+When the total number of overweight persons is counted using ranges from Table_1, the outcome is consistent and matches what was observed and predicted. We may extend this solution further using other methods/approaches, and it is entirely dependent on the supplied data. Consider the input as a folder on a datalake where numerous files will be received, then read all the data and divide it into sub-samples, process them using parallel streams, and then combine the results. This is possible using Databricks pipelines.
