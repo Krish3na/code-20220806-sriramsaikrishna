@@ -1,0 +1,98 @@
+[
+    {
+        "Gender": "Male",
+        "HeightCm": 181,
+        "WeightKg": 92,
+        "BMI": 28.1,
+        "BMI Category": "Overweight",
+        "Health risk": "Enhanced risk"
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 151,
+        "WeightKg": 95,
+        "BMI": 41.7,
+        "BMI Category": "Very severely obese",
+        "Health risk": "Very high risk"
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 140,
+        "WeightKg": 89,
+        "BMI": 45.4,
+        "BMI Category": "Very severely obese",
+        "Health risk": "Very high risk"
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 189,
+        "WeightKg": 51,
+        "BMI": 14.3,
+        "BMI Category": "Underweight",
+        "Health risk": "Malnutrition risk"
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 173,
+        "WeightKg": 78,
+        "BMI": 26.1,
+        "BMI Category": "Overweight",
+        "Health risk": "Enhanced risk"
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 166,
+        "WeightKg": 87,
+        "BMI": 31.6,
+        "BMI Category": "Moderately obese",
+        "Health risk": "Medium risk"
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 194,
+        "WeightKg": 69,
+        "BMI": 18.3,
+        "BMI Category": "Underweight",
+        "Health risk": "Malnutrition risk"
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 141,
+        "WeightKg": 75,
+        "BMI": 37.7,
+        "BMI Category": "Severely obese",
+        "Health risk": "High risk"
+    },
+    {
+        "Gender": "Male",
+        "HeightCm": 190,
+        "WeightKg": 101,
+        "BMI": 28.0,
+        "BMI Category": "Overweight",
+        "Health risk": "Enhanced risk"
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 175,
+        "WeightKg": 43,
+        "BMI": 14.0,
+        "BMI Category": "Underweight",
+        "Health risk": "Malnutrition risk"
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 173,
+        "WeightKg": 87,
+        "BMI": 29.1,
+        "BMI Category": "Overweight",
+        "Health risk": "Enhanced risk"
+    },
+    {
+        "Gender": "Female",
+        "HeightCm": 166,
+        "WeightKg": 62,
+        "BMI": 22.5,
+        "BMI Category": "Normal weight",
+        "Health risk": "Low risk"
+    }
+]

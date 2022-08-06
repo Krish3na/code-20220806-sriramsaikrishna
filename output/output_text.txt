@@ -1,0 +1,19 @@
+   Gender  HeightCm  WeightKg
+0    Male       171        96
+1    Male       161        85
+2    Male       180        77
+3  Female       166        62
+4  Female       150        70
+5  Female       167        82
+
+   Gender  HeightCm  WeightKg   BMI      BMI Category    Health risk
+0    Male       171        96  32.8  Moderately obese    Medium risk
+1    Male       161        85  32.8  Moderately obese    Medium risk
+2    Male       180        77  23.8     Normal weight       Low risk
+3  Female       166        62  22.5     Normal weight       Low risk
+4  Female       150        70  31.1  Moderately obese    Medium risk
+5  Female       167        82  29.4        Overweight  Enhanced risk
+
+{'Underweight': 0, 'Normal weight': 2, 'Overweight': 1, 'Moderately obese': 3, 'Severely obese': 0, 'Very severely obese': 0}
+
+Count of total number of Overweight people is 1
