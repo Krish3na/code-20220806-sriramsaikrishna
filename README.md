@@ -70,17 +70,17 @@ Very severely obese   40 and above   Very high risk
 
 **Directories**
 
-- The main script is bmi_calculate_main.py used to calculate the BMI, BMI Category and Health risk
+- The main script is **bmi_calculate_main.py** used to calculate the BMI, BMI Category and Health risk
 from Table 1 of the person and count the total number of overweight people using ranges in the column BMI Category
 of Table 1
-- And the script bmi_calculate_test.py tests whether the code is working as expected
+- And the script **bmi_calculate_test.py** tests whether the code is working as expected
 
-- bmi folder: it is a package which contains bmi_calculator.py which is the main module; bmi_calculator_test.py is the module used for testing bmi_calculator.py module
+- **bmi folder** : it is a package which contains **bmi_calculator.py** which is the main module; **bmi_calculator_test.py** is the module used for testing bmi_calculator.py module
 
-- input folder: contains the bmi_table.json which is a BMI reference table to find BMI values, BMI Categories, Health risk; input_data.json is the acutal given input data; 
+- **input folder** : contains the bmi_table.json which is a BMI reference table to find BMI values, BMI Categories, Health risk; input_data.json is the acutal given input data; 
 test_data.json is test data used for testing validation; expected_data.json is the expected output of test data used for validation
 
-- output folder: contains the result_data.json which is output of actual input data; output_text.txt contains the output of result; actual_input_data_bar_chart.png is the illustration of actual data output BMI Categories vs Count; test_data_bar_chart.png is the illustration of test data output BMI Categories vs Count
+- **output folder** : contains the result_data.json which is output of actual input data; output_text.txt contains the output of result; actual_input_data_bar_chart.png is the illustration of actual data output BMI Categories vs Count; test_data_bar_chart.png is the illustration of test data output BMI Categories vs Count
 
 
 **Comments**
