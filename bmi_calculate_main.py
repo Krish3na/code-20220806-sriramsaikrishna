@@ -17,10 +17,10 @@ print(calculated_bmi_data)
 
 # saving the result output in a json file
 bmi_calculator.save_result(output_data)
-#print_file_data('output/result_data.json')
+print_file_data('output/result_data.json')
 
 # printing BMI_Reference_Table
-#print_file_data('input/bmi_table.json')
+print_file_data('input/bmi_table.json')
 # printing 'BMI Category' values
 print(get_json_column(bmi_table, 'BMI Category'))
 
